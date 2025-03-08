@@ -1,4 +1,4 @@
-# Application TodoKotlin
+# Application TodoMaximeSeignovert
 
 ## Informations
 - **Étudiant :** Maxime SEIGNOVERT
@@ -66,7 +66,7 @@ Le projet suit les principes de la Clean Architecture avec une séparation en tr
 app/
 ├── src/
 │   ├── main/
-│   │   ├── java/com/example/todokotlin/
+│   │   ├── java/com/example/todomaximeseignovert/
 │   │   │   ├── data/
 │   │   │   │   ├── local/
 │   │   │   │   └── repository/

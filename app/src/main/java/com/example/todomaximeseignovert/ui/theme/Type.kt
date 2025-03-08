@@ -1,4 +1,4 @@
-package com.example.todokotlin.ui.theme
+package com.example.todomaximeseignovert.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

@@ -1,4 +1,4 @@
-package com.example.todokotlin
+package com.example.todomaximeseignovert
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp

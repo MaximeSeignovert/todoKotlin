@@ -1,9 +1,9 @@
-package com.example.todokotlin.data.repository
+package com.example.todomaximeseignovert.data.repository
 
-import com.example.todokotlin.data.local.dao.TaskDao
-import com.example.todokotlin.data.local.entity.TaskEntity
-import com.example.todokotlin.domain.model.Task
-import com.example.todokotlin.domain.repository.TaskRepository
+import com.example.todomaximeseignovert.data.local.dao.TaskDao
+import com.example.todomaximeseignovert.data.local.entity.TaskEntity
+import com.example.todomaximeseignovert.domain.model.Task
+import com.example.todomaximeseignovert.domain.repository.TaskRepository
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.map
 import javax.inject.Inject

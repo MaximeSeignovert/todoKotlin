@@ -1,4 +1,4 @@
-package com.example.todokotlin.presentation.screens
+package com.example.todomaximeseignovert.presentation.screens
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
@@ -10,9 +10,9 @@ import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
-import com.example.todokotlin.domain.model.Task
-import com.example.todokotlin.presentation.TaskViewModel
-import com.example.todokotlin.presentation.components.TaskItem
+import com.example.todomaximeseignovert.domain.model.Task
+import com.example.todomaximeseignovert.presentation.TaskViewModel
+import com.example.todomaximeseignovert.presentation.components.TaskItem
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable

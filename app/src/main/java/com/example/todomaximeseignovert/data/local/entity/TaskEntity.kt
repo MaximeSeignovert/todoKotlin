@@ -1,8 +1,8 @@
-package com.example.todokotlin.data.local.entity
+package com.example.todomaximeseignovert.data.local.entity
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey
-import com.example.todokotlin.domain.model.Task
+import com.example.todomaximeseignovert.domain.model.Task
 import java.util.Date
 
 @Entity(tableName = "tasks")

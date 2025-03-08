@@ -1,6 +1,6 @@
-package com.example.todokotlin.domain.repository
+package com.example.todomaximeseignovert.domain.repository
 
-import com.example.todokotlin.domain.model.Task
+import com.example.todomaximeseignovert.domain.model.Task
 import kotlinx.coroutines.flow.Flow
 
 interface TaskRepository {

@@ -1,4 +1,4 @@
-package com.example.todokotlin.domain.model
+package com.example.todomaximeseignovert.domain.model
 
 import java.util.Date
 

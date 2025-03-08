@@ -1,9 +1,9 @@
-package com.example.todokotlin.presentation
+package com.example.todomaximeseignovert.presentation
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.todokotlin.domain.model.Task
-import com.example.todokotlin.domain.repository.TaskRepository
+import com.example.todomaximeseignovert.domain.model.Task
+import com.example.todomaximeseignovert.domain.repository.TaskRepository
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow

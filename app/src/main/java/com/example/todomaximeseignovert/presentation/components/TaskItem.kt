@@ -1,4 +1,4 @@
-package com.example.todokotlin.presentation.components
+package com.example.todomaximeseignovert.presentation.components
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.material.icons.Icons
@@ -10,7 +10,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
-import com.example.todokotlin.domain.model.Task
+import com.example.todomaximeseignovert.domain.model.Task
 import java.text.SimpleDateFormat
 import java.util.*
 

@@ -1,10 +1,10 @@
-package com.example.todokotlin.di
+package com.example.todomaximeseignovert.di
 
 import android.app.Application
 import androidx.room.Room
-import com.example.todokotlin.data.local.TaskDatabase
-import com.example.todokotlin.data.repository.TaskRepositoryImpl
-import com.example.todokotlin.domain.repository.TaskRepository
+import com.example.todomaximeseignovert.data.local.TaskDatabase
+import com.example.todomaximeseignovert.data.repository.TaskRepositoryImpl
+import com.example.todomaximeseignovert.domain.repository.TaskRepository
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

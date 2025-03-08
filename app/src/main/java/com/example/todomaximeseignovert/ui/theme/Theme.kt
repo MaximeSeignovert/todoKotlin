@@ -1,6 +1,5 @@
-package com.example.todokotlin.ui.theme
+package com.example.todomaximeseignovert.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

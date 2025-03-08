@@ -1,11 +1,11 @@
-package com.example.todokotlin.data.local
+package com.example.todomaximeseignovert.data.local
 
 import androidx.room.Database
 import androidx.room.RoomDatabase
 import androidx.room.TypeConverters
-import com.example.todokotlin.data.local.dao.TaskDao
-import com.example.todokotlin.data.local.entity.TaskEntity
-import com.example.todokotlin.data.local.converter.DateConverter
+import com.example.todomaximeseignovert.data.local.dao.TaskDao
+import com.example.todomaximeseignovert.data.local.entity.TaskEntity
+import com.example.todomaximeseignovert.data.local.converter.DateConverter
 
 @Database(
     entities = [TaskEntity::class],

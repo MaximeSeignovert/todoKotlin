@@ -1,4 +1,4 @@
-package com.example.todokotlin
+package com.example.todomaximeseignovert
 
 import org.junit.Test
 
